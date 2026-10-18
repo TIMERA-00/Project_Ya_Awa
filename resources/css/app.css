@@ -1,3 +1,7 @@
+@import '../../public/assets/css/template.css';
+@import '../../public/assets/css/styles.css';
+
+
 @import 'tailwindcss';
 
 @source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
